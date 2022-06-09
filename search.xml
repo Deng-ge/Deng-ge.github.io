@@ -23,8 +23,28 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
-        <tag>主题</tag>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>几个conda虚拟环境配置命令</title>
+    <url>/2022/06/09/%E5%87%A0%E4%B8%AAconda%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<h3 id="1、创建虚拟环境"><a href="#1、创建虚拟环境" class="headerlink" title="1、创建虚拟环境"></a>1、创建虚拟环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda  create -n python34  python=3.4</span><br><span class="line">或者conda  create  --name  python34   python=3.4</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、切换环境"><a href="#2、切换环境" class="headerlink" title="2、切换环境"></a>2、切换环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">activate 【虚拟环境名】</span><br><span class="line"><span class="comment"># linux 的话就是 source activate</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="3、查看所有环境"><a href="#3、查看所有环境" class="headerlink" title="3、查看所有环境"></a>3、查看所有环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda <span class="built_in">env</span> list</span><br></pre></td></tr></table></figure>
+
+<h3 id="4、删除环境"><a href="#4、删除环境" class="headerlink" title="4、删除环境"></a>4、删除环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda remove --name 【虚拟环境名】 --all</span><br></pre></td></tr></table></figure>
+
+<h3 id="5、进入base环境"><a href="#5、进入base环境" class="headerlink" title="5、进入base环境"></a>5、进入base环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deactivate</span><br><span class="line"><span class="comment"># linux 的话就是 source deactivate</span></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Conda</tag>
       </tags>
   </entry>
 </search>
