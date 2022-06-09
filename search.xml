@@ -18,12 +18,10 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
-        <category>教程</category>
         <category>Hexo</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -45,6 +43,21 @@
       </categories>
       <tags>
         <tag>Conda</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Typora数学符号大全</title>
+    <url>/2022/06/09/Typora%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/</url>
+    <content><![CDATA[<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora1.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora6.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora10.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora3.png"></p>
+]]></content>
+      <categories>
+        <category>文档编排</category>
+      </categories>
+      <tags>
+        <tag>Typora</tag>
       </tags>
   </entry>
 </search>
