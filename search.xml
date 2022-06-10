@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typora数学符号大全</title>
+    <url>/2022/06/09/Typora%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/</url>
+    <content><![CDATA[<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora1.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora6.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora10.png"></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora3.png"></p>
+]]></content>
+      <categories>
+        <category>文档编排</category>
+      </categories>
+      <tags>
+        <tag>Typora</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/06/08/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -43,21 +58,6 @@
       </categories>
       <tags>
         <tag>Conda</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Typora数学符号大全</title>
-    <url>/2022/06/09/Typora%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/</url>
-    <content><![CDATA[<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora1.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora6.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora10.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora3.png"></p>
-]]></content>
-      <categories>
-        <category>文档编排</category>
-      </categories>
-      <tags>
-        <tag>Typora</tag>
       </tags>
   </entry>
 </search>
