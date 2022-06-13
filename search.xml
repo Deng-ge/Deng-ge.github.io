@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Typora数学符号大全</title>
-    <url>/2022/06/09/Typora%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/</url>
-    <content><![CDATA[<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora1.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora6.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora10.png"></p>
-<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora3.png"></p>
-]]></content>
-      <categories>
-        <category>文档编排</category>
-      </categories>
-      <tags>
-        <tag>Typora</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/06/08/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span>  </span><br></pre></td></tr></table></figure>
-
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span>  </span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
@@ -40,107 +26,153 @@
       </tags>
   </entry>
   <entry>
+    <title>Typora数学符号大全</title>
+    <url>/2022/06/09/Typora%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/</url>
+    <content><![CDATA[<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora1.png" alt=""></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora6.png" alt=""></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora10.png" alt=""></p>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/typora3.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>文档编排</category>
+      </categories>
+      <tags>
+        <tag>Typora</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>web期末小结(java)</title>
     <url>/2022/06/13/web%E6%9C%9F%E6%9C%AB%E5%B0%8F%E7%BB%93-java/</url>
-    <content><![CDATA[<h2 id="一、Get请求与POST请求的区别"><a href="#一、Get请求与POST请求的区别" class="headerlink" title="一、Get请求与POST请求的区别"></a>一、Get请求与POST请求的区别</h2><ol>
-<li>get方式提交请求会用 <strong>？</strong>把参数拼接在url地址的后面，多个参数直接用 <strong>&amp;</strong> 连接，数据不安全。</li>
+    <content><![CDATA[<h2 id="一、Get请求与POST请求的区别">一、Get请求与POST请求的区别</h2>
+<ol>
+<li>get方式提交请求会用 ? 把参数拼接在url地址的后面，多个参数直接用 <strong>&amp;</strong> 连接，数据不安全。</li>
 <li>post方式会把参数放在请求体中，不可见安全度高。</li>
 <li>get请求的url地址是由长度限制的，post对参数个数无限制。</li>
 <li>get请求参数只支持ascii字符，不能携带特殊符号，post无限制。</li>
 </ol>
-<h2 id="二、重定向和转发的问题"><a href="#二、重定向和转发的问题" class="headerlink" title="二、重定向和转发的问题"></a>二、重定向和转发的问题</h2><ol>
+<h2 id="二、重定向和转发的问题">二、重定向和转发的问题</h2>
+<ol>
 <li>重定向和转发目的都是跳转页面</li>
-<li>重定向是由response响应对象发起的，<br>转发是由request对象发起的。</li>
-<li>重定向可以访问第三方的网址。<br>转发只能访问项目内的网页。</li>
+<li>重定向是由response响应对象发起的，<br>
+转发是由request对象发起的。</li>
+<li>重定向可以访问第三方的网址。<br>
+转发只能访问项目内的网页。</li>
 <li>重定向无法访问WEB_INF服务器级别的目录(404)，转发可以访问。</li>
 <li>重定向后的url是跳转后的网页地址，转发后url还是请求servlet的url。</li>
 <li>转发可以携带request作用域，可以携带参数跳转，重定向不可。</li>
 </ol>
-<h2 id="三、JSP"><a href="#三、JSP" class="headerlink" title="三、JSP"></a>三、JSP</h2><ul>
-<li><p>jsp是java的专属网页，以.jsp结尾</p>
+<h2 id="三、JSP">三、JSP</h2>
+<ul>
+<li>
+<p>jsp是java的专属网页，以.jsp结尾</p>
 </li>
-<li><p>jsp组成：html+css+js +java</p>
+<li>
+<p>jsp组成：html+css+js +java</p>
 </li>
-<li><p>jsp不能单独运行，需要装配进tomcat容器中运行</p>
+<li>
+<p>jsp不能单独运行，需要装配进tomcat容器中运行</p>
 </li>
-<li><p>jsp本质上是servlet</p>
+<li>
+<p>jsp本质上是servlet</p>
 <p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220504115800514.png" alt="image-20220504115800514"></p>
 </li>
 </ul>
-<h2 id="四、JSP的三大指令"><a href="#四、JSP的三大指令" class="headerlink" title="四、JSP的三大指令"></a>四、JSP的三大指令</h2><h3 id="1-编译器指令"><a href="#1-编译器指令" class="headerlink" title="1.编译器指令"></a>1.编译器指令</h3><h4 id="1-1-page指令：指定编码和文件格式"><a href="#1-1-page指令：指定编码和文件格式" class="headerlink" title="1.1 page指令：指定编码和文件格式"></a>1.1 page指令：指定编码和文件格式</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page contentType=<span class="string">&quot;text/html;charset=utf-8&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
-<h4 id="1-2-page指令：导入jar包（Random库）"><a href="#1-2-page指令：导入jar包（Random库）" class="headerlink" title="1.2 page指令：导入jar包（Random库）"></a>1.2 page指令：导入jar包（Random库）</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page <span class="keyword">import</span>=<span class="string">&quot;java.util.Random&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
-<h4 id="1-3-page指令：报错自动跳转页面"><a href="#1-3-page指令：报错自动跳转页面" class="headerlink" title="1.3 page指令：报错自动跳转页面"></a>1.3 page指令：报错自动跳转页面</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page errorPage=<span class="string">&quot;error.jsp&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
-<h4 id="1-4-taglib指令：添加命名空间"><a href="#1-4-taglib指令：添加命名空间" class="headerlink" title="1.4 taglib指令：添加命名空间"></a>1.4 taglib指令：添加命名空间</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ taglib prefix=<span class="string">&quot;c&quot;</span> uri=<span class="string">&quot;http://java.sun.com/jsp/jstl/core&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
-<h4 id="1-5-include指令：静态导入"><a href="#1-5-include指令：静态导入" class="headerlink" title="1.5 include指令：静态导入"></a>1.5 include指令：静态导入</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ include file=<span class="string">&quot;two.jsp&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-语法指令"><a href="#2-语法指令" class="headerlink" title="2.语法指令"></a>2.语法指令</h3><h4 id="2-1-基本语法"><a href="#2-1-基本语法" class="headerlink" title="2.1 基本语法"></a>2.1 基本语法</h4><p>控制台输出 <strong>—-明天要考试—–</strong></p>
+<h2 id="四、JSP的三大指令">四、JSP的三大指令</h2>
+<h3 id="1-编译器指令">1.编译器指令</h3>
+<h4 id="1-1-page指令：指定编码和文件格式">1.1 page指令：指定编码和文件格式</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page contentType=<span class="string">&quot;text/html;charset=utf-8&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="1-2-page指令：导入jar包（Random库）">1.2 page指令：导入jar包（Random库）</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page <span class="keyword">import</span>=<span class="string">&quot;java.util.Random&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="1-3-page指令：报错自动跳转页面">1.3 page指令：报错自动跳转页面</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page errorPage=<span class="string">&quot;error.jsp&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="1-4-taglib指令：添加命名空间">1.4 taglib指令：添加命名空间</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ taglib prefix=<span class="string">&quot;c&quot;</span> uri=<span class="string">&quot;http://java.sun.com/jsp/jstl/core&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="1-5-include指令：静态导入">1.5 include指令：静态导入</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ include file=<span class="string">&quot;two.jsp&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="2-语法指令">2.语法指令</h3>
+<h4 id="2-1-基本语法">2.1 基本语法</h4>
+<p>控制台输出 <strong>----明天要考试-----</strong></p>
 <figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;% System.out.print(<span class="string">&quot;----明天要考试-----&quot;</span>); %&gt; </span><br></pre></td></tr></table></figure>
-
-<h4 id="2-2-取值语法"><a href="#2-2-取值语法" class="headerlink" title="2.2 取值语法"></a>2.2 取值语法</h4><blockquote>
+<h4 id="2-2-取值语法">2.2 取值语法</h4>
+<blockquote>
 <p>例子中，页面会显示 <strong>小明</strong> 两字</p>
 </blockquote>
 <figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%     </span><br><span class="line">     <span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> <span class="string">&quot;小明&quot;</span>;</span><br><span class="line">%&gt;</span><br><span class="line">  &lt;h1&gt;&lt;%=name%&gt;&lt;/h1&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h4 id="2-3声明全局属性的方法"><a href="#2-3声明全局属性的方法" class="headerlink" title="2.3	声明全局属性的方法"></a>2.3	声明全局属性的方法</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%! </span><br><span class="line">    <span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> <span class="string">&quot;你的名字&quot;</span>;</span><br><span class="line">%&gt;</span><br><span class="line">&lt;%!</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">studuy</span><span class="params">()</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;---------你爱学习---------&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">%&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-动作指令"><a href="#3-动作指令" class="headerlink" title="3.动作指令"></a>3.动作指令</h3><h4 id="3-1取值动作指令"><a href="#3-1取值动作指令" class="headerlink" title="3.1取值动作指令"></a>3.1取值动作指令</h4><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;动作指令取值：&lt;jsp:expression&gt;name&lt;/jsp:expression&gt;&lt;/h1&gt;</span><br></pre></td></tr></table></figure>
-
+<h4 id="2-3声明全局属性的方法">2.3	声明全局属性的方法</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%! </span><br><span class="line">    <span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> <span class="string">&quot;你的名字&quot;</span>;</span><br><span class="line">%&gt;</span><br><span class="line">&lt;%!</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">studuy</span><span class="params">()</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;---------你爱学习---------&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">%&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="3-动作指令">3.动作指令</h3>
+<h4 id="3-1取值动作指令">3.1取值动作指令</h4>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;动作指令取值：&lt;jsp:expression&gt;name&lt;/jsp:expression&gt;&lt;/h1&gt;</span><br></pre></td></tr></table></figure>
 <p>页面显示为</p>
 <p><strong>动作指令取值：你的名字</strong></p>
-<h2 id="五、静态导入与动态导入的区别"><a href="#五、静态导入与动态导入的区别" class="headerlink" title="五、静态导入与动态导入的区别"></a>五、静态导入与动态导入的区别</h2><ol>
+<h2 id="五、静态导入与动态导入的区别">五、静态导入与动态导入的区别</h2>
+<ol>
 <li>静态导入属于编译器指令，动态导入属于动作指令；</li>
 <li>静态导入是把两个jsp文件编译成1个servlet，不能出现相同的属性名和方法名；</li>
 <li>动态导入，两个jsp文件会单独编译成2个servlet，两者互不影响。</li>
 </ol>
-<h2 id="六、JSP的九大内置对象"><a href="#六、JSP的九大内置对象" class="headerlink" title="六、JSP的九大内置对象"></a>六、JSP的九大内置对象</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.request:请求对象</span><br><span class="line">2.reponse:响应对象</span><br><span class="line">3.pageContext:jsp的上下文对象，通过它可以获取到其他对象</span><br><span class="line">4.session:服务器端保存用户数据的对象</span><br><span class="line">5.application:servlet的上下文对象，保存项目的全局变量</span><br><span class="line">6.config：配置文件对象</span><br><span class="line">7.out：输出流对象</span><br><span class="line">8.page：页面本身对象</span><br><span class="line">9.exception:页面异常对象</span><br></pre></td></tr></table></figure>
-
-<h2 id="七、JSP四大作用域"><a href="#七、JSP四大作用域" class="headerlink" title="七、JSP四大作用域"></a>七、JSP四大作用域</h2><h3 id="1-Application：-x3D-x3D-项目-x3D-x3D-不关闭，该作用域就不会消失，通常用来存放"><a href="#1-Application：-x3D-x3D-项目-x3D-x3D-不关闭，该作用域就不会消失，通常用来存放" class="headerlink" title="1.Application：&#x3D;&#x3D;项目&#x3D;&#x3D;不关闭，该作用域就不会消失，通常用来存放"></a>1.Application：&#x3D;&#x3D;项目&#x3D;&#x3D;不关闭，该作用域就不会消失，通常用来存放</h3><h3 id="2-Session：-x3D-x3D-用户浏览器-x3D-x3D-关闭，该项目就消失"><a href="#2-Session：-x3D-x3D-用户浏览器-x3D-x3D-关闭，该项目就消失" class="headerlink" title="2.Session：&#x3D;&#x3D;用户浏览器&#x3D;&#x3D;关闭，该项目就消失"></a>2.Session：&#x3D;&#x3D;用户浏览器&#x3D;&#x3D;关闭，该项目就消失</h3><h3 id="3-Request：在转发的时候会携带request作用域，两个页面"><a href="#3-Request：在转发的时候会携带request作用域，两个页面" class="headerlink" title="3.Request：在转发的时候会携带request作用域，两个页面"></a>3.Request：在转发的时候会携带request作用域，两个页面</h3><h3 id="4-PageContext：该作用域就在-x3D-x3D-页面本身-x3D-x3D-存在，出了该页面作用域消失"><a href="#4-PageContext：该作用域就在-x3D-x3D-页面本身-x3D-x3D-存在，出了该页面作用域消失" class="headerlink" title="4.PageContext：该作用域就在&#x3D;&#x3D;页面本身&#x3D;&#x3D;存在，出了该页面作用域消失"></a>4.PageContext：该作用域就在&#x3D;&#x3D;页面本身&#x3D;&#x3D;存在，出了该页面作用域消失</h3><h2 id="八、EL表达式"><a href="#八、EL表达式" class="headerlink" title="八、EL表达式"></a>八、EL表达式</h2><h3 id="1-简化从四大作用域中的取值"><a href="#1-简化从四大作用域中的取值" class="headerlink" title="1.简化从四大作用域中的取值"></a>1.简化从四大作用域中的取值</h3><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;$&#123;name&#125;&lt;/h1&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-取值范围"><a href="#2-取值范围" class="headerlink" title="2.取值范围"></a>2.取值范围</h3><p>由小到大取</p>
-<p>$$<br>Pagecontext-&gt;Request-&gt;Session-&gt;Application<br>$$</p>
-<h2 id="九、默认端口"><a href="#九、默认端口" class="headerlink" title="九、默认端口"></a>九、默认端口</h2><ul>
+<h2 id="六、JSP的九大内置对象">六、JSP的九大内置对象</h2>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.request:请求对象</span><br><span class="line">2.reponse:响应对象</span><br><span class="line">3.pageContext:jsp的上下文对象，通过它可以获取到其他对象</span><br><span class="line">4.session:服务器端保存用户数据的对象</span><br><span class="line">5.application:servlet的上下文对象，保存项目的全局变量</span><br><span class="line">6.config：配置文件对象</span><br><span class="line">7.out：输出流对象</span><br><span class="line">8.page：页面本身对象</span><br><span class="line">9.exception:页面异常对象</span><br></pre></td></tr></table></figure>
+<h2 id="七、JSP四大作用域">七、JSP四大作用域</h2>
+<h3 id="1-Application：-项目-不关闭，该作用域就不会消失，通常用来存放">1.Application：==项目==不关闭，该作用域就不会消失，通常用来存放</h3>
+<h3 id="2-Session：-用户浏览器-关闭，该项目就消失">2.Session：==用户浏览器==关闭，该项目就消失</h3>
+<h3 id="3-Request：在转发的时候会携带request作用域，两个页面">3.Request：在转发的时候会携带request作用域，两个页面</h3>
+<h3 id="4-PageContext：该作用域就在-页面本身-存在，出了该页面作用域消失">4.PageContext：该作用域就在==页面本身==存在，出了该页面作用域消失</h3>
+<h2 id="八、EL表达式">八、EL表达式</h2>
+<h3 id="1-简化从四大作用域中的取值">1.简化从四大作用域中的取值</h3>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;$&#123;name&#125;&lt;/h1&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="2-取值范围">2.取值范围</h3>
+<p>由小到大取</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Pagecontext-&gt;Request-&gt;Session-&gt;Application</span><br></pre></td></tr></table></figure>
+<h2 id="九、默认端口">九、默认端口</h2>
+<ul>
 <li>tomcat 的默认端口为  8080</li>
 <li>sql server的默认端口为 1433</li>
 </ul>
-<h2 id="十、生命周期"><a href="#十、生命周期" class="headerlink" title="十、生命周期"></a>十、生命周期</h2><p>doPost和doGet方法合并为service</p>
-<h2 id="十一、导入jar包"><a href="#十一、导入jar包" class="headerlink" title="十一、导入jar包"></a>十一、导入jar包</h2><p>引入，在这里导入jstl jar包后才能导入jar包</p>
+<h2 id="十、生命周期">十、生命周期</h2>
+<p>doPost和doGet方法合并为service</p>
+<h2 id="十一、导入jar包">十一、导入jar包</h2>
+<p>引入，在这里导入jstl jar包后才能导入jar包</p>
 <p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220601085033981.png" alt="image-20220601085033981"></p>
-<h2 id="十二、引入random库"><a href="#十二、引入random库" class="headerlink" title="十二、引入random库"></a>十二、引入random库</h2><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page <span class="keyword">import</span>=<span class="string">&quot;java.util.Random&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
-
+<h2 id="十二、引入random库">十二、引入random库</h2>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;%@ page <span class="keyword">import</span>=<span class="string">&quot;java.util.Random&quot;</span> %&gt;</span><br></pre></td></tr></table></figure>
 <p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220601090627921.png" alt="image-20220601090627921"></p>
-<h2 id="十三、配置web打开的静态页面"><a href="#十三、配置web打开的静态页面" class="headerlink" title="十三、配置web打开的静态页面"></a>十三、配置web打开的静态页面</h2><p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220601100151241.png" alt="image-20220601100151241"></p>
-<h2 id="十四、关于编码"><a href="#十四、关于编码" class="headerlink" title="十四、关于编码"></a>十四、关于编码</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">// 设置request请求编码</span><br><span class="line">request.setCharacterEncoding(&quot;utf-8&quot;);</span><br><span class="line">// 设置响应编码</span><br><span class="line">response.setCharacterEncoding(&quot;utf-8&quot;);</span><br><span class="line">// 设置contentType</span><br><span class="line">response.setContentType(&quot;text/html;charset=utf-8&quot;);</span><br></pre></td></tr></table></figure>
-
-<h2 id="十五、必考程序大题"><a href="#十五、必考程序大题" class="headerlink" title="十五、必考程序大题"></a>十五、必考程序大题</h2><blockquote>
+<h2 id="十三、配置web打开的静态页面">十三、配置web打开的静态页面</h2>
+<p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220601100151241.png" alt="image-20220601100151241"></p>
+<h2 id="十四、关于编码">十四、关于编码</h2>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">// 设置request请求编码</span><br><span class="line">request.setCharacterEncoding(&quot;utf-8&quot;);</span><br><span class="line">// 设置响应编码</span><br><span class="line">response.setCharacterEncoding(&quot;utf-8&quot;);</span><br><span class="line">// 设置contentType</span><br><span class="line">response.setContentType(&quot;text/html;charset=utf-8&quot;);</span><br></pre></td></tr></table></figure>
+<h2 id="十五、必考程序大题">十五、必考程序大题</h2>
+<blockquote>
 <p>在登录页面编写一个form表单，包含用户名、密码、登录按钮，结合实际servlet编写</p>
 </blockquote>
-<h3 id="html部分"><a href="#html部分" class="headerlink" title="html部分"></a>html部分</h3><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--走ajax提交表单--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">Script</span> <span class="attr">src</span>=<span class="string">&quot;login.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">Script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">Script</span> <span class="attr">src</span>=<span class="string">&quot;jquery.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">Script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">form</span> <span class="attr">onsubmit</span>=<span class="string">&quot;return false;&quot;</span> <span class="attr">name</span>=<span class="string">&quot;myForm&quot;</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			用户名:<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">name</span>=<span class="string">&quot;username&quot;</span> <span class="attr">id</span>=<span class="string">&quot;username&quot;</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">&quot;usernameTS&quot;</span> <span class="attr">style</span>=<span class="string">&quot;color: red;&quot;</span>&gt;</span>username<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			密码: <span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;password&quot;</span> <span class="attr">name</span>=<span class="string">&quot;pwd&quot;</span> <span class="attr">id</span>=<span class="string">&quot;pwd&quot;</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">&quot;pwdTS&quot;</span> <span class="attr">style</span>=<span class="string">&quot;color: red;&quot;</span>&gt;</span>pwd<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;submit&quot;</span> <span class="attr">value</span>=<span class="string">&quot;登录&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;login()&quot;</span> /&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;/<span class="name">form</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
+<h3 id="html部分">html部分</h3>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--走ajax提交表单--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">Script</span> <span class="attr">src</span>=<span class="string">&quot;login.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">Script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">Script</span> <span class="attr">src</span>=<span class="string">&quot;jquery.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">Script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">form</span> <span class="attr">onsubmit</span>=<span class="string">&quot;return false;&quot;</span> <span class="attr">name</span>=<span class="string">&quot;myForm&quot;</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			用户名:<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;text&quot;</span> <span class="attr">name</span>=<span class="string">&quot;username&quot;</span> <span class="attr">id</span>=<span class="string">&quot;username&quot;</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">&quot;usernameTS&quot;</span> <span class="attr">style</span>=<span class="string">&quot;color: red;&quot;</span>&gt;</span>username<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			密码: <span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;password&quot;</span> <span class="attr">name</span>=<span class="string">&quot;pwd&quot;</span> <span class="attr">id</span>=<span class="string">&quot;pwd&quot;</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">&quot;pwdTS&quot;</span> <span class="attr">style</span>=<span class="string">&quot;color: red;&quot;</span>&gt;</span>pwd<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">&quot;submit&quot;</span> <span class="attr">value</span>=<span class="string">&quot;登录&quot;</span> <span class="attr">onclick</span>=<span class="string">&quot;login()&quot;</span> /&gt;</span></span><br><span class="line">		<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;/<span class="name">form</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>预览图片如下</p>
 </blockquote>
 <p><img src="https://aliyunyydsxhy.oss-cn-shanghai.aliyuncs.com/image-20220608152455776.png" alt="image-20220608152455776"></p>
-<h3 id="js部分"><a href="#js部分" class="headerlink" title="js部分"></a>js部分</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// login.js，与WEB-INF同级</span></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">input</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="keyword">var</span> nameInput = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;username&#x27;</span>)</span><br><span class="line">	<span class="keyword">if</span> (nameInput == <span class="literal">null</span> || nameInput == <span class="string">&quot;&quot;</span>)&#123;				<span class="comment">// 例 仅作为参考</span></span><br><span class="line">		<span class="title function_">alert</span>()</span><br><span class="line">		<span class="keyword">return</span></span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">var</span> pwdInput = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;pwd&#x27;</span>)</span><br><span class="line">	<span class="keyword">if</span> (pwdInput.<span class="property">length</span> != <span class="number">6</span> || <span class="built_in">isNaN</span>(pwdInput))&#123;			<span class="comment">// 例 仅作为参考</span></span><br><span class="line">		<span class="keyword">return</span></span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">var</span> data = $(<span class="string">&#x27;form&#x27;</span>).<span class="title function_">serialize</span>()</span><br><span class="line">	$.<span class="title function_">ajax</span>(&#123;</span><br><span class="line">		<span class="attr">type</span>: <span class="string">&quot;post&quot;</span>,</span><br><span class="line">		<span class="attr">data</span>: data,</span><br><span class="line">		<span class="attr">url</span>: <span class="string">&quot;/userInfo&quot;</span></span><br><span class="line">		<span class="attr">success</span>:<span class="keyword">function</span>(<span class="params">data</span>)&#123;</span><br><span class="line">			<span class="keyword">var</span> json = <span class="title class_">Json</span>.<span class="title function_">parse</span>(data)</span><br><span class="line">			<span class="keyword">if</span> (json.<span class="property">msg</span> == <span class="string">&quot;success&quot;</span>)&#123;</span><br><span class="line">				<span class="title function_">alert</span>()</span><br><span class="line">			&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">				<span class="title function_">alert</span>()</span><br><span class="line">			&#125;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="java部分"><a href="#java部分" class="headerlink" title="java部分"></a>java部分</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title function_">doPost</span><span class="params">(HttpServletRequest request, HttpServletResponse reponse)</span> <span class="keyword">throws</span> ServletExpection,IOExpection(</span><br><span class="line">	<span class="type">String</span> <span class="variable">username</span> <span class="operator">=</span> request.getParameter(<span class="string">&quot;userName&quot;</span>);</span><br><span class="line">    <span class="type">String</span> <span class="variable">pwd</span> <span class="operator">=</span> request.getParameter(<span class="string">&quot;pwd&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span> (<span class="string">&quot;admin&quot;</span>.equals(username) &amp;&amp; <span class="string">&quot;123456&quot;</span>.equals(pwd))&#123;</span><br><span class="line">			<span class="type">String</span> <span class="variable">json</span> <span class="operator">=</span> <span class="string">&quot;&#123;\&quot;msg\&quot;:\&quot;success\&quot;&#125;&quot;</span>;</span><br><span class="line">        	response.getWriter().print(json);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        	<span class="type">String</span> <span class="variable">json</span> <span class="operator">=</span> <span class="string">&quot;&#123;\&quot;msg\&quot;:\&quot;error\&quot;&#125;&quot;</span>;</span><br><span class="line">        	response.getWriter().print(json);</span><br><span class="line">    &#125;</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
-
-<h2 id="小题"><a href="#小题" class="headerlink" title="小题"></a>小题</h2><h3 id="toString-NaN"><a href="#toString-NaN" class="headerlink" title="toString()"></a>toString()</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;%--</span><br><span class="line">&lt;%--    String str=&quot;hello&quot;!   感叹号敲错了--%&gt;  </span><br><span class="line">&lt;%--    session.setAttribute(&quot;msg&quot;,str);--%&gt;</span><br><span class="line">&lt;%--    String getStr = session.getAttribute(&quot;msg&quot;);   这一行会报错，因为需要进行强转--%&gt; </span><br><span class="line">&lt;%--    session.getAttribute(getStr);--%</span><br><span class="line">--%&gt;</span><br></pre></td></tr></table></figure>
-
+<h3 id="js部分">js部分</h3>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// login.js，与WEB-INF同级</span></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">input</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="keyword">var</span> nameInput = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;username&#x27;</span>)</span><br><span class="line">	<span class="keyword">if</span> (nameInput == <span class="literal">null</span> || nameInput == <span class="string">&quot;&quot;</span>)&#123;				<span class="comment">// 例 仅作为参考</span></span><br><span class="line">		<span class="title function_">alert</span>()</span><br><span class="line">		<span class="keyword">return</span></span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">var</span> pwdInput = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;pwd&#x27;</span>)</span><br><span class="line">	<span class="keyword">if</span> (pwdInput.<span class="property">length</span> != <span class="number">6</span> || <span class="built_in">isNaN</span>(pwdInput))&#123;			<span class="comment">// 例 仅作为参考</span></span><br><span class="line">		<span class="keyword">return</span></span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">var</span> data = $(<span class="string">&#x27;form&#x27;</span>).<span class="title function_">serialize</span>()</span><br><span class="line">	$.<span class="title function_">ajax</span>(&#123;</span><br><span class="line">		<span class="attr">type</span>: <span class="string">&quot;post&quot;</span>,</span><br><span class="line">		<span class="attr">data</span>: data,</span><br><span class="line">		<span class="attr">url</span>: <span class="string">&quot;/userInfo&quot;</span></span><br><span class="line">		<span class="attr">success</span>:<span class="keyword">function</span>(<span class="params">data</span>)&#123;</span><br><span class="line">			<span class="keyword">var</span> json = <span class="title class_">Json</span>.<span class="title function_">parse</span>(data)</span><br><span class="line">			<span class="keyword">if</span> (json.<span class="property">msg</span> == <span class="string">&quot;success&quot;</span>)&#123;</span><br><span class="line">				<span class="title function_">alert</span>()</span><br><span class="line">			&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">				<span class="title function_">alert</span>()</span><br><span class="line">			&#125;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="java部分">java部分</h3>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title function_">doPost</span><span class="params">(HttpServletRequest request, HttpServletResponse reponse)</span> <span class="keyword">throws</span> ServletExpection,IOExpection(</span><br><span class="line">	<span class="type">String</span> <span class="variable">username</span> <span class="operator">=</span> request.getParameter(<span class="string">&quot;userName&quot;</span>);</span><br><span class="line">    <span class="type">String</span> <span class="variable">pwd</span> <span class="operator">=</span> request.getParameter(<span class="string">&quot;pwd&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span> (<span class="string">&quot;admin&quot;</span>.equals(username) &amp;&amp; <span class="string">&quot;123456&quot;</span>.equals(pwd))&#123;</span><br><span class="line">			<span class="type">String</span> <span class="variable">json</span> <span class="operator">=</span> <span class="string">&quot;&#123;\&quot;msg\&quot;:\&quot;success\&quot;&#125;&quot;</span>;</span><br><span class="line">        	response.getWriter().print(json);</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        	<span class="type">String</span> <span class="variable">json</span> <span class="operator">=</span> <span class="string">&quot;&#123;\&quot;msg\&quot;:\&quot;error\&quot;&#125;&quot;</span>;</span><br><span class="line">        	response.getWriter().print(json);</span><br><span class="line">    &#125;</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<h2 id="小题">小题</h2>
+<h3 id="toString">toString()</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;%--</span><br><span class="line">&lt;%--    String str=&quot;hello&quot;!   感叹号敲错了--%&gt;  </span><br><span class="line">&lt;%--    session.setAttribute(&quot;msg&quot;,str);--%&gt;</span><br><span class="line">&lt;%--    String getStr = session.getAttribute(&quot;msg&quot;);   这一行会报错，因为需要进行强转--%&gt; </span><br><span class="line">&lt;%--    session.getAttribute(getStr);--%</span><br><span class="line">--%&gt;</span><br></pre></td></tr></table></figure>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"> &lt;%</span><br><span class="line">        String str=&quot;hello&quot;;</span><br><span class="line">        session.setAttribute(&quot;msg&quot;,str);</span><br><span class="line">        String getStr = session.getAttribute(&quot;msg&quot;).toString();</span><br><span class="line">        session.getAttribute(getStr);</span><br><span class="line">    %&gt;</span><br><span class="line">&lt;h1&gt;$&#123;sessionScope.msg&#125;&lt;/h1&gt;</span><br><span class="line"></span><br><span class="line">// 上方为改正后的结果</span><br></pre></td></tr></table></figure>
-
-<h3 id="count"><a href="#count" class="headerlink" title="count"></a>count</h3><figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">	&lt;% <span class="type">int</span> count=<span class="number">1</span>; %&gt;</span><br><span class="line">    &lt;%=++count%&gt;</span><br><span class="line">    &lt;%++count%&gt;</span><br><span class="line">    &lt;%count++%&gt;</span><br><span class="line">    &lt;%=count++%&gt;</span><br><span class="line">    选择一行，让结果为<span class="number">1</span> </span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line">答案为第四行 &lt;%=count++%&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="MVC由哪三部分组成"><a href="#MVC由哪三部分组成" class="headerlink" title="MVC由哪三部分组成"></a>MVC由哪三部分组成</h3><ul>
+<h3 id="count">count</h3>
+<figure class="highlight jsp"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">	&lt;% <span class="type">int</span> count=<span class="number">1</span>; %&gt;</span><br><span class="line">    &lt;%=++count%&gt;</span><br><span class="line">    &lt;%++count%&gt;</span><br><span class="line">    &lt;%count++%&gt;</span><br><span class="line">    &lt;%=count++%&gt;</span><br><span class="line">    选择一行，让结果为<span class="number">1</span> </span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line">答案为第四行 &lt;%=count++%&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="MVC由哪三部分组成">MVC由哪三部分组成</h3>
+<ul>
 <li>控制器Controller</li>
 <li>模型Model</li>
 <li>视图View</li>
 </ul>
-<h3 id="JSP的本质servlet"><a href="#JSP的本质servlet" class="headerlink" title="JSP的本质servlet"></a>JSP的本质servlet</h3><h3 id="修饰servlet的注解是：-WebServlet"><a href="#修饰servlet的注解是：-WebServlet" class="headerlink" title="修饰servlet的注解是：@WebServlet()"></a>修饰servlet的注解是：@WebServlet()</h3><h3 id="如何快速使项目启动为404报错？"><a href="#如何快速使项目启动为404报错？" class="headerlink" title="如何快速使项目启动为404报错？"></a>如何快速使项目启动为404报错？</h3><p>404错误，找不到请求的html或jsp页面（资源未找到），最简单的将index.jsp改成其他名称</p>
-<h3 id="琐碎"><a href="#琐碎" class="headerlink" title="琐碎"></a>琐碎</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https:// 				表示协议</span><br><span class="line">8080:  					表示端口</span><br><span class="line">sql题，插入和删除，根据用户名密码删除用户信息</span><br><span class="line"></span><br><span class="line">No suitable driver		连接URL格式出现了问题</span><br></pre></td></tr></table></figure>
+<h3 id="JSP的本质servlet">JSP的本质servlet</h3>
+<h3 id="修饰servlet的注解是：-WebServlet">修饰servlet的注解是：@WebServlet()</h3>
+<h3 id="如何快速使项目启动为404报错？">如何快速使项目启动为404报错？</h3>
+<p>404错误，找不到请求的html或jsp页面（资源未找到），最简单的将index.jsp改成其他名称</p>
+<h3 id="琐碎">琐碎</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https:// 				表示协议</span><br><span class="line">8080:  					表示端口</span><br><span class="line">sql题，插入和删除，根据用户名密码删除用户信息</span><br><span class="line"></span><br><span class="line">No suitable driver		连接URL格式出现了问题</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>Java</category>
@@ -152,16 +184,16 @@
   <entry>
     <title>几个conda虚拟环境配置命令</title>
     <url>/2022/06/09/%E5%87%A0%E4%B8%AAconda%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<h3 id="1、创建虚拟环境"><a href="#1、创建虚拟环境" class="headerlink" title="1、创建虚拟环境"></a>1、创建虚拟环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda  create -n python34  python=3.4</span><br><span class="line">或者conda  create  --name  python34   python=3.4</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、切换环境"><a href="#2、切换环境" class="headerlink" title="2、切换环境"></a>2、切换环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">activate 【虚拟环境名】</span><br><span class="line"><span class="comment"># linux 的话就是 source activate</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="3、查看所有环境"><a href="#3、查看所有环境" class="headerlink" title="3、查看所有环境"></a>3、查看所有环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda <span class="built_in">env</span> list</span><br></pre></td></tr></table></figure>
-
-<h3 id="4、删除环境"><a href="#4、删除环境" class="headerlink" title="4、删除环境"></a>4、删除环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda remove --name 【虚拟环境名】 --all</span><br></pre></td></tr></table></figure>
-
-<h3 id="5、进入base环境"><a href="#5、进入base环境" class="headerlink" title="5、进入base环境"></a>5、进入base环境</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deactivate</span><br><span class="line"><span class="comment"># linux 的话就是 source deactivate</span></span><br></pre></td></tr></table></figure>
-
+    <content><![CDATA[<h3 id="1、创建虚拟环境">1、创建虚拟环境</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda  create -n python34  python=3.4</span><br><span class="line">或者conda  create  --name  python34   python=3.4</span><br></pre></td></tr></table></figure>
+<h3 id="2、切换环境">2、切换环境</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">activate 【虚拟环境名】</span><br><span class="line"><span class="comment"># linux 的话就是 source activate</span></span><br></pre></td></tr></table></figure>
+<h3 id="3、查看所有环境">3、查看所有环境</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda <span class="built_in">env</span> list</span><br></pre></td></tr></table></figure>
+<h3 id="4、删除环境">4、删除环境</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda remove --name 【虚拟环境名】 --all</span><br></pre></td></tr></table></figure>
+<h3 id="5、进入base环境">5、进入base环境</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deactivate</span><br><span class="line"><span class="comment"># linux 的话就是 source deactivate</span></span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>Python</category>
